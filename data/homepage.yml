@@ -1,0 +1,121 @@
+# page title
+head:
+  title: "I'm Joey Ruan"
+  description: "Resume and portfolio of Joey Ruan, a freshman engineer at Purdue University."
+# showcase
+showcase:
+  enable: true
+  title: "Hi, I'm Joey."
+  subtitle: "Avid Maker and Tinkerer"
+  description: >
+    I'm currently a <b>freshman</b> majoring in <b>Mechanical Engineering</b> at <b>Purdue University</b> in West Lafayette, IN.
+    <br/>I have a wide range of experience: from DevOps, infrastructure, and networking to CAD, FEA, and manufacturing. I'm passionate about my work, so feel free to shoot me an email if you want to talk about one of them!
+  image:
+    x: "images/landing.jpeg"
+    _2x: "images/landing.jpeg"
+  imageMobile:
+    x: "images/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "https://jlruan.me/"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/jlruan/"
+
+    - icon: "github"
+      URL: "https://github.com/jruaaa"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: >
+    <p class="lead">
+      I'm very driven and I always love to learn. I would describe myself as a fast learner, not because of some innate talent or anything, but because I try to do what I love and I try to love what I do. 
+    </p>
+    <p class="lead">
+      I am a jack of all trades. My profile is a hybrid of mechanical, computer, and electrical engineering more often than not blended into something related to robotics. I'm interested in economics, devops, cybersecurity, as well as robotics as careers which is a weird mix, I know. 
+    </p>
+  button:
+    icon: "linkedin"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/jlruan/"
+  image:
+    x: "images/working.jpeg"
+    _2x: "images/working.jpeg"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Purdue University"
+      year: "2024-2027"
+      degree: > 
+        B.S in Mechanical Engineering, Minors in Computer Science and Economics
+
+    - university: "Mercer Island High School"
+      year: "2020-2024"
+      degree: "National Merit Scholar Semifinalist, Presidential Scholar Nominee"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: >
+    Here's a brief summary of what I've done most recently here at Purdue. For a more complete history, feel free to view my LinkedIn or download my resume directly.
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/jlruan/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://dub.sh/jlruanresume"
+
+# Client & Work
+client_and_work:
+  title: "Projects"
+  enable: true
+  
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "images/testimonials/daniel-jordan.jpg"
+        _2x: "images/testimonials/daniel-jordan@2x.jpg"
+
+# contact
+contact:
+  enable: false
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+1 (253) 642-7380"
+  email:
+    title: "Email"
+    email: '<a href="mailto:joey@jlruan.me">joey@jlruan.me</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: true
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."

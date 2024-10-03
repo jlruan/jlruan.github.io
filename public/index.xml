@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2024 10:23:39 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ztos</title>
+      <link>http://localhost:1313/client-work/ztos/</link>
+      <pubDate>Sun, 25 Aug 2024 10:23:39 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/ztos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zoo</title>
+      <link>http://localhost:1313/client-work/zoo/</link>
+      <pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/zoo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kanba</title>
+      <link>http://localhost:1313/client-work/kanba/</link>
+      <pubDate>Sun, 25 Aug 2024 10:22:34 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/kanba/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goldline</title>
+      <link>http://localhost:1313/client-work/goldline/</link>
+      <pubDate>Sun, 25 Aug 2024 10:21:48 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/goldline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Earth 2.0</title>
+      <link>http://localhost:1313/client-work/earth2.0/</link>
+      <pubDate>Sun, 25 Aug 2024 10:17:12 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/earth2.0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asgardia</title>
+      <link>http://localhost:1313/client-work/asgardia/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/asgardia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GAPS (EPICS) Camera</title>
+      <link>http://localhost:1313/projects/gaps/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/gaps/</guid>
+      <description>&lt;p&gt;My team collaborated with Universidad del Norte in Barranquilla, Colombia to monitor the ecosystem around the university. I used Onshape to design multiple low-cost wildlife camera housings utilizing bird feeders to prevent theft. These housings were designed to be easy to manufacture through a variety of methods such as additively through a consumer FDM printer or on a jigsaw with a paper template to match the project partner’s needs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Miso Mechanics 9442 - 2024 Robot</title>
+      <link>http://localhost:1313/projects/miso/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/miso/</guid>
+      <description>&lt;p&gt;At the end of 2023, I founded a rookie FIRST Robotics team and fundraised over $30K for competition and robot costs. During the 2024 season, I designed multiple subsystems on our award-winning competition robot which ranked as high as  20th offensively out of 3,500 teams worldwide. I also developed computer vision systems using PhotonVision to detect game objectives and utilized it in autonomous routines, allowing for real-time decision making to aid in gameplay.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chassis Designer</title>
+      <link>http://localhost:1313/experience/job-3/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-3/</guid>
+      <description>&lt;h5 id=&#34;skills-cad-onshape-fea-ansys-composites-manufacturing-cfd&#34;&gt;Skills: CAD, Onshape, FEA, Ansys, Composites Manufacturing, CFD&lt;/h5&gt;&#xA;&lt;p&gt;I designed chassis closeouts using NX to isolate cockpit and driver from potentially hazardous road debris. I then validated the closeouts using ANSYS to match specified rigidity targets as well as for aerodynamic purposes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Product Designer</title>
+      <link>http://localhost:1313/experience/job-2/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-2/</guid>
+      <description>&lt;h5 id=&#34;skills-cad-onshape-rapid-prototyping-technical-documentation-product-design&#34;&gt;Skills: CAD, Onshape, Rapid Prototyping, Technical Documentation, Product Design&lt;/h5&gt;&#xA;&lt;p&gt;My team collaborated with Universidad del Norte in Barranquilla, Colombia to monitor the ecosystem around the university. I used Onshape to design multiple low-cost wildlife camera housings utilizing bird feeders to prevent theft. These housings were designed to be easy to manufacture through a variety of methods such as additively through a consumer FDM printer or on a jigsaw with a paper template to match the project partner&amp;rsquo;s needs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research Assistant</title>
+      <link>http://localhost:1313/experience/job-1/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-1/</guid>
+      <description>&lt;h5 id=&#34;skills-embedded-programming-microcontrollers-cad-onshape-rapid-prototyping-technical-documentation&#34;&gt;Skills: Embedded Programming, Microcontrollers, CAD, Onshape, Rapid Prototyping, Technical Documentation&lt;/h5&gt;&#xA;&lt;p&gt;I developed low-cost inertia measuring and position estimation solutions to study animal behavior patterns as well as designed soft robotic limbs to assist in locomotion when traversing difficult terrain. I also researched quadruped motion with artifical limbs to enhance agility and manueverability under Associate Professor Upinder Kaur.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
