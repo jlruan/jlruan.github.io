@@ -11,8 +11,8 @@ params:
         btnText: "Paper In Progress"
         URL: ""
     image:  
-        x: "images/pipe.png"
-        _2x: "images/pipe.png"
+        x: "images/pipe.jpeg"
+        _2x: "images/pipe.jpeg"
     
 
 ## The content is used for the description of the project
