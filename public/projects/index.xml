@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/projects/miso/</guid>
       <description>&lt;p&gt;At the end of 2023, I founded a rookie FIRST Robotics team and fundraised over $30K for competition and robot costs. During the 2024 season, I designed multiple subsystems on our award-winning competition robot which ranked as high as  20th offensively out of 3,500 teams worldwide. I also developed computer vision systems using PhotonVision to detect game objectives and utilized it in autonomous routines, allowing for real-time decision making to aid in gameplay.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Soil Microbiome Analysis Robot</title>
+      <link>http://localhost:1313/projects/pipe/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/pipe/</guid>
+      <description>&lt;p&gt;I used Onshape to designed the slip ring assembly for the reel of the robot to allow for easy unspooling for long distance data acquisition. I also worked on the data parser to sync the data collected by the robot&amp;rsquo;s onboard sensors and it&amp;rsquo;s cameras for more precise research and location identification. I presented our findings at the United States Department of Agriculture’s Ames National Laboratory with two more senior lab members.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
