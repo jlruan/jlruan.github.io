@@ -1,13 +1,13 @@
 ---
 date: 2007-12-01T00:00:00+01:00
 draft: false
-title: "Product Designer"
-jobTitle: "Product Designer"
-company: "Global Active Problem Solving"
-location: "Barranquilla, Colombia"
+title: "Chassis Designer"
+jobTitle: "Chassis Designer"
+company: "Purdue Electric Racing"
+location: "West Lafayette, Indiana"
 duration: "2024-Present"
 
 ---
-##### Skills: CAD, Onshape, Rapid Prototyping, Technical Documentation, Product Design
+##### Skills: CAD, Onshape, FEA, Ansys, Composites Manufacturing, CFD
 
-My team collaborated with Universidad del Norte in Barranquilla, Colombia to monitor the ecosystem around the university. I used Onshape to design multiple low-cost wildlife camera housings utilizing bird feeders to prevent theft. These housings were designed to be easy to manufacture through a variety of methods such as additively through a consumer FDM printer or on a jigsaw with a paper template to match the project partner's needs.
+I designed chassis closeouts using NX to isolate cockpit and driver from potentially hazardous road debris. I then validated the closeouts using ANSYS to match specified rigidity targets as well as for aerodynamic purposes.
