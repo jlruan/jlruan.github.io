@@ -34,10 +34,10 @@ about:
   title: "Who am I?"
   content: >
     <p class="lead">
-      I'm very driven and I always love to learn. I would say I'm an asset to a team not because of my skills but because of my work ethic, as I have no qualms putting in the hours in order to make something work.  I would describe myself as a fast learner, not because of some innate talent or anything, but because I try to do what I love and I try to love what I do which makes learning intrinsically motivating without any external factor. 
+      I'm very driven and I always love to learn. My greatest strength is my work ethic, as I have no qualms putting in the hours in order to make something work.  I would describe myself as a fast learner, not because I can grasp concepts instantly but because I'll work on it day and night until I get it.
     </p>
     <p class="lead">
-      I am a jack of all trades. My profile is a hybrid of mechanical, computer, and electrical engineering more often than not blended into something related to robotics. I'm interested in economics, devops, cybersecurity, as well as robotics as careers which is a weird mix, I know. 
+      I am a jack of all trades. My profile is a hybrid of mechanical, computer, and electrical engineering more often than not blended into something related to robotics. I'm interested in economics, devops, cybersecurity, as well as robotics so hit me up if you're interested in talking shop. 
     </p>
   button:
     icon: "linkedin"
@@ -66,20 +66,20 @@ experience:
   enable: true
   title: "Experience"
   description: >
-    Here's a brief summary of what I've done most recently here at Purdue. For a more complete history, feel free to view my LinkedIn or download my resume directly.
+    Here's a brief summary of what I've done most recently here at Purdue. For a more complete history, feel free to view my portfolio or download my resume.
   button:
-    icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/jlruan/"
+    icon: "icon-profile-fill"
+    btnText: "Portfolio"
+    URL: "RuanJoseph_Portfoio.pdf"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
+    btnText: "Resume"
     URL: "RuanJoseph_Resume.pdf"
 
 # Client & Work
 client_and_work:
   title: "Projects"
-  enable: true
+  enable: false
   
 # testimonial
 testimonial:
