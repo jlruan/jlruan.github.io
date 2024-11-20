@@ -8,8 +8,8 @@ showcase:
   title: "Hi, I'm Joey."
   subtitle: "Avid Maker and Tinkerer"
   description: >
-    I'm currently a <b>freshman</b> majoring in <b>Mechanical Engineering</b> at <b>Purdue University</b> in West Lafayette, IN.
-    <br/>I have a wide range of experience: from DevOps, infrastructure, and networking to CAD, FEA, and manufacturing. I'm passionate about my work, so feel free to shoot me an email if you want to talk about one of them!
+    I'm currently a <b>freshman</b> majoring in <b>Mechanical Engineering</b> at <b>Purdue University</b> in West Lafayette, IN. I have a wide range of experience in programming, DevOps, and networking to CAD, FEA, and manufacturing.
+    </br><b>Scroll down</b> to see what I've done recently!
   image:
     x: "images/landing.jpeg"
     _2x: "images/landing.jpeg"
@@ -19,18 +19,12 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://jlruan.me/"
+    URL: "mailto:jlruan2006@gmail.com"
 
-  socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/jlruan/"
-
-    - icon: "github"
-      URL: "https://github.com/jruaaa"
 
 # about
 about:
-  enable: true
+  enable: false
   title: "Who am I?"
   content: >
     <p class="lead">
@@ -79,7 +73,7 @@ experience:
 # Client & Work
 client_and_work:
   title: "Projects"
-  enable: false
+  enable: true
   
 # testimonial
 testimonial:
@@ -114,7 +108,7 @@ contact:
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."

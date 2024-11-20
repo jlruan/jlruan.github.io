@@ -6,10 +6,6 @@ draft: true # set to "true" if you want to hide the content
 link: "" # optional URL to link the logo to
 
 params:
-    button:
-        icon: "icon-arrow-right"
-        btnText: "Partner Link"
-        URL: "https://www.uninorte.edu.co/"
     image:  
         x: "images/epics.png"
         _2x: "images/epics.png"

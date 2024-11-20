@@ -25,19 +25,19 @@ theme = "adritian-free-hugo-theme"
 # navigation
 [menu]
 
-  [[menu.header]]
-  name = "About"
-  URL = "#about"
-  weight = 2
-
-  [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
+#  [[menu.header]]
+#  name = "About"
+#  URL = "#about"
+#  weight = 2
 
   [[menu.header]]
   name = "Experience"
   URL = "#experience"
+  weight = 3
+
+  [[menu.header]]
+  name = "Portfolio"
+  URL = "#portfolio"
   weight = 4
 
 #  [[menu.header]]
@@ -50,19 +50,19 @@ theme = "adritian-free-hugo-theme"
 #  URL = "#contact"
 #  weight = 6
 
-  [[menu.footer]]
-  name = "About"
-  URL = "#about"
-  weight = 2
+#  [[menu.footer]]
+#  name = "About"
+#  URL = "#about"
+#  weight = 2
+
+[[menu.footer]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 3
 
   [[menu.footer]]
   name = "Portfolio"
   URL = "#portfolio"
-  weight = 3
-
-  [[menu.footer]]
-  name = "Experience"
-  URL = "#experience"
   weight = 4
 
 #  [[menu.footer]]
@@ -75,14 +75,14 @@ theme = "adritian-free-hugo-theme"
 
   sections = ["showcase", "about", "education", "experience", "client-and-work", "contact"]
 
-  homepageExperienceCount = 6
+  homepageExperienceCount = 3
 
   [params.google_analytics]
       code = "UA-XXXXX-Y"
       enabled = false
   [params.google_tag_manager]
-      code = "GTM-XXXXX"
-      enabled = false
+      code = "G-Z5R5Y38B1H"
+      enabled = true
   
   [params.logo]
     text1 = "Joey"
