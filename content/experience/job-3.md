@@ -5,7 +5,7 @@ title: "Product Designer"
 jobTitle: "Product Designer"
 company: "Global Active Problem Solving"
 location: "Barranquilla, Colombia"
-duration: "2024-Present"
+duration: "August 2024 - December 2024"
 
 ---
 ##### Skills: CAD, Onshape, Rapid Prototyping, Technical Documentation, Product Design

@@ -72,9 +72,16 @@
       <description>&lt;p&gt;I used Onshape to designed the slip ring assembly for the reel of the robot to allow for easy unspooling for long distance data acquisition and worked on a data parser to sync the data collected by the robot&amp;rsquo;s onboard sensors and cameras for more precise research and location identification. I presented our findings at the United States Department of Agriculture’s Ames National Laboratory with two other senior lab members.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Research Assistant</title>
+      <link>http://localhost:1313/experience/job-1/</link>
+      <pubDate>Mon, 03 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-1/</guid>
+      <description>&lt;h5 id=&#34;skills-embedded-programming-microcontrollers-cad-onshape-rapid-prototyping-technical-documentation&#34;&gt;Skills: Embedded Programming, Microcontrollers, CAD, Onshape, Rapid Prototyping, Technical Documentation&lt;/h5&gt;&#xA;&lt;p&gt;I developed low-cost inertia measuring and position estimation solutions to study animal behavior patterns as well as designed soft robotic limbs to assist in locomotion when traversing difficult terrain. I also researched quadruped motion with artifical limbs to enhance agility and manueverability under Associate Professor Upinder Kaur.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chassis Designer</title>
       <link>http://localhost:1313/experience/job-2/</link>
-      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 02 Dec 2007 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/experience/job-2/</guid>
       <description>&lt;h5 id=&#34;skills-cad-onshape-fea-ansys-composites-manufacturing-cfd&#34;&gt;Skills: CAD, Onshape, FEA, Ansys, Composites Manufacturing, CFD&lt;/h5&gt;&#xA;&lt;p&gt;I designed chassis closeouts using NX to isolate cockpit and driver from potentially hazardous road debris. I then validated the closeouts using ANSYS to match specified rigidity targets as well as for aerodynamic purposes.&lt;/p&gt;</description>
     </item>
@@ -84,13 +91,6 @@
       <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/experience/job-3/</guid>
       <description>&lt;h5 id=&#34;skills-cad-onshape-rapid-prototyping-technical-documentation-product-design&#34;&gt;Skills: CAD, Onshape, Rapid Prototyping, Technical Documentation, Product Design&lt;/h5&gt;&#xA;&lt;p&gt;My team collaborated with Universidad del Norte in Barranquilla, Colombia to monitor the ecosystem around the university. I used Onshape to design multiple low-cost wildlife camera housings utilizing bird feeders to prevent theft. These housings were designed to be easy to manufacture through a variety of methods such as additively through a consumer FDM printer or on a jigsaw with a paper template to match the project partner&amp;rsquo;s needs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Research Assistant</title>
-      <link>http://localhost:1313/experience/job-1/</link>
-      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/job-1/</guid>
-      <description>&lt;h5 id=&#34;skills-embedded-programming-microcontrollers-cad-onshape-rapid-prototyping-technical-documentation&#34;&gt;Skills: Embedded Programming, Microcontrollers, CAD, Onshape, Rapid Prototyping, Technical Documentation&lt;/h5&gt;&#xA;&lt;p&gt;I developed low-cost inertia measuring and position estimation solutions to study animal behavior patterns as well as designed soft robotic limbs to assist in locomotion when traversing difficult terrain. I also researched quadruped motion with artifical limbs to enhance agility and manueverability under Associate Professor Upinder Kaur.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

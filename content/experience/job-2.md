@@ -1,11 +1,11 @@
 ---
-date: 2007-12-01T00:00:00+01:00
+date: 2007-12-02T00:00:00+01:00
 draft: false
 title: "Chassis Designer"
 jobTitle: "Chassis Designer"
 company: "Purdue Electric Racing"
 location: "West Lafayette, Indiana"
-duration: "2024-Present"
+duration: "August 2024 - Present"
 
 ---
 ##### Skills: CAD, Onshape, FEA, Ansys, Composites Manufacturing, CFD

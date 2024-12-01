@@ -60,15 +60,15 @@ experience:
   enable: true
   title: "Experience"
   description: >
-    Here's a brief summary of what I've done most recently here at Purdue. For a more complete history, feel free to view my portfolio or download my resume.
+    For a more complete description of my employment, please download my resume below.
   button:
-    icon: "icon-profile-fill"
-    btnText: "Portfolio"
-    URL: "RuanJoseph_Portfolio.pdf"
-  button2:
     icon: "icon-profile-fill"
     btnText: "Resume"
     URL: "RuanJoseph_Resume.pdf"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Portfolio"
+    URL: "RuanJoseph_Portfolio.pdf"
 
 # Client & Work
 client_and_work:
