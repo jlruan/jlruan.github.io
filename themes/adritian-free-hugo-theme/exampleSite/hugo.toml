@@ -78,7 +78,7 @@ theme = "adritian-free-hugo-theme"
   
   [params.google_analytics]
       code = "UA-XXXXX-Y"
-      enabled = false
+      enabled = true
   [params.google_tag_manager]
       code = "G-Z5R5Y38B1H"
       enabled = true

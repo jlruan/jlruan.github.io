@@ -54,7 +54,15 @@
 </noscript>
 {{ if .Site.Params.analytics.google_tag_manager.enabled }}
 <!-- Google tag (gtag.js), google analytics -->
-<script defer src="https://www.googletagmanager.com/gtag/js?id=UA-465407-4"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z5R5Y38B1H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z5R5Y38B1H');
+</script>
 {{ $analytics := resources.Get "js/gtag.js" | resources.Minify }}
 <script defer src="{{ $analytics.Permalink }}"></script>
 {{ else }}
